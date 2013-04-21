@@ -1,51 +1,5 @@
-safe:        false
-auto:        true
-server:      true
-server_port: 4000
-baseurl:     /
-url: http://localhost:4000
-
-name: Zeno Rocha
-description: A front-end engineer who lives in Rio and works for an awesome company based in LA :)
-url: http://zenorocha.com
-domain: zenorocha.com
-commentlinks: true
-twitter-username: zenorocha
-feedburnerurl: http://feeds.feedburner.com/zenorocha
-google-analytics-tracking-id: UA-4114546-2
-
-source:      .
-destination: ./_site
-plugins:     ./_plugins
-
-future:      true
-lsi:         false
-pygments:    false
-markdown:    maruku
-permalink:   /:title/
-paginate: 5
-
-maruku:
-  use_tex:    false
-  use_divs:   false
-  png_engine: blahtex
-  png_dir:    images/latex
-  png_url:    /images/latex
-
-rdiscount:
-  extensions: []
-
-kramdown:
-  auto_ids: true,
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  use_coderay: false
-
-  coderay:
-    coderay_wrap: div
-    coderay_line_numbers: inline
-    coderay_line_numbers_start: 1
-    coderay_tab_width: 4
-    coderay_bold_every: 10
-    coderay_css: style
+paginate: 6
+permalink: /:title.html
+url: http://blog.zenorocha.com
+auto: true
+server: true

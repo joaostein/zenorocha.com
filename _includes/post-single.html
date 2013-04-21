@@ -1,0 +1,37 @@
+<div class="post text">
+
+  <div class="posttype">
+    <p>{{ post.date | date: "%d/%m" }}</p>
+  </div><!-- /.posttype -->
+
+  <div class="postcontent">
+
+    <h3 class="posttitle">
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </h3>
+
+    <div class="description regular_post_body">
+      {% if post.excerpt %}
+          {{ post.excerpt | markdownify }}
+          <p><strong><a href="{{ post.url }}">Continue lendo...</a></strong></p>
+      {% else %}
+          {{ post.content }}
+      {% endif %}
+    </div><!-- /.description -->
+
+  </div><!-- /.postcontent -->
+
+  <div class="postbottom">
+    {% if post.oldUrl %}
+    <a href="{{ post.oldUrl }}#disqus_thread" class="fr">
+    {% else %}
+    <a href="{{ post.url }}#disqus_thread" class="fr">
+    {% endif %}
+      Comente<img src="/assets/img/ico-notes.png" alt="" />
+    </a>
+    <div class="fix"></div>
+  </div><!-- /.postbottom -->
+
+  <a rel="author" style="display:none;" href="https://profiles.google.com/zno.rocha">Zeno Rocha</a>
+
+</div><!-- /#post -->

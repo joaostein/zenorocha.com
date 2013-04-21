@@ -1,0 +1,25 @@
+<div class="post quote">
+
+  <div class="posttype">
+    <img src="http://static.tumblr.com/j8lh0bq/j5Mkzgvl3/ico-quote.png" alt="Quote">
+  </div><!-- /.posttype -->
+
+  <div class="postcontent">
+    <div class="quote-wrap">"{{ post.title }}"</div>
+    <div class="description"><em>—&nbsp;<a href="{{ post.authorURL }}" target="_blank">{{ post.authorName }}</a></em></div>
+  </div><!-- /.postcontent -->
+
+  <div class="postbottom">
+    {% if post.oldUrl %}
+    <a href="{{ post.oldUrl }}#disqus_thread" class="fr">
+    {% else %}
+    <a href="{{ post.url }}#disqus_thread" class="fr">
+    {% endif %}
+      Comente<img src="/assets/img/ico-notes.png" alt="" />
+    </a>
+    <div class="fix"></div>
+  </div><!-- /.postbottom -->
+
+  <a rel="author" style="display:none;" href="https://profiles.google.com/zno.rocha">Zeno Rocha</a>
+
+</div>

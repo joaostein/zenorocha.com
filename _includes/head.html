@@ -1,0 +1,42 @@
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# blog: http://ogp.me/ns/blog#">
+
+  <meta charset="utf-8">
+  <meta name="author" content="Zeno Rocha" />
+  <meta name="description" content="Um blog sobre desenvolvimento web - HTML5 / CSS3 / JS" />
+
+  <title>{% if page.title %}{{ page.title }} | {% endif %}Zeno Rocha - Um blog sobre Front-end (HTML5, CSS3 e JavaScript)</title>
+
+  <!-- Favicon -->
+  <link rel="shortcut icon" href="http://zenorocha.com/favicon.ico" />
+
+  <!-- RSS -->
+  <link rel="alternate" type="application/rss+xml" href="http://feeds.feedburner.com/zenorocha" />
+
+  <!-- Styles -->
+  <link rel="stylesheet" href="/assets/css/reset.css">
+  <link rel="stylesheet" href="/assets/css/style.css">
+  <link rel="stylesheet" href="/assets/css/custom.css?v=2">
+
+  <!-- Scripts -->
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js"></script>
+
+  <!-- Fonts -->
+  <link href="http://fonts.googleapis.com/css?family=Ubuntu" rel="stylesheet" type="text/css">
+
+  <!-- Syntax Highlight -->
+  <link rel="stylesheet" type="text/css" href="http://media.zenorocha.com/pretiffy.css"></link>
+  <script src="http://media.zenorocha.com/pretiffy.js"></script>
+  <script src="http://media.zenorocha.com/pretiffy-lang-css.js"></script>
+
+  <!-- Facebook Open Graph -->
+  <meta property="fb:app_id" content="519121164768265">
+  <meta property="og:type" content="blog">
+  <meta property="og:url" content="http://blog.zenorocha.com{{ page.url }}">
+  {% if page.title %}
+  <meta property="og:title" content="{{ page.title }}">
+  {% else %}
+  <meta property="og:title" content="Zeno Rocha - Um blog sobre Front-end (HTML5, CSS3 e JavaScript)">
+  <meta property="og:image" content="http://24.media.tumblr.com/avatar_4e4cb4352c29_128.png">
+  {% endif %}
+
+</head>

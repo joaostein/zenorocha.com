@@ -1,0 +1,49 @@
+---
+layout: home
+---
+
+{% include header.html %}
+
+<div id="content" class="content">
+
+  <div id="main" class="fl">
+
+    {% for post in paginator.posts %}
+
+      {% if post.layout == 'post' %}
+        {% include post-single.html %}
+      {% else %}
+        {% include quote-single.html %}
+      {% endif %}
+
+    {% endfor %}
+
+    <div id="page-nav-wrap">
+      <div id="page-nav">
+        {% if paginator.previous_page %}
+        <span class="newer fl">
+          {% if paginator.previous_page == 1 %}
+          <a href="/"><img src="http://static.tumblr.com/j8lh0bq/cuskzgvhe/ico-arrow-left.png" alt="">Anterior</a>
+          {% else %}
+          <a href="/page{{paginator.previous_page}}"><img src="http://static.tumblr.com/j8lh0bq/cuskzgvhe/ico-arrow-left.png" alt="">Anterior</a>
+          {% endif %}
+        </span>
+        {% endif %}
+        <span class="older fr">
+          {% if paginator.next_page %}
+            <a href="/page{{paginator.next_page}}">Pr&oacute;xima<img src="/assets/img/ico-arrow-right.png" alt="" /></a>
+          {% endif %}
+        </span>
+        <div class="fix"></div>
+      </div><!-- /#page-nav -->
+    </div><!-- /#page-nav-wrap -->
+
+  </div><!-- /#main -->
+
+  {% include sidebar.html %}
+
+</div><!-- /#content -->
+
+<div class="fix"></div>
+
+{% include footer.html %}

@@ -1,6 +1,6 @@
-# zenorocha.com
+# Blog
 
-Meu site pessoal onde abordo temas sobre desenvolvimento front-end como HTML5, CSS3 e JavaScript.
+Meu blog pessoal onde abordo temas sobre desenvolvimento front-end como HTML5, CSS3 e JavaScript.
 
 ## Como funciona?
 
@@ -12,21 +12,22 @@ Utilizo o [Jekyll](http://jekyllrb.com/), um static generator em Ruby, para cria
 
 2. Uma vez tendo instalado essas dependências, abra o terminal e instale o [Jekyll](http://jekyllrb.com/) através do comando:
 
-    gem install jekyll
+		gem install jekyll
 
 3. Agora clone o projeto:
 
-    git clone git@github.com:zenorocha/zenorocha.com.git
+		git clone git@github.com:zenorocha/blog.git
 
 4. Depois vá para pasta do projeto:
 
-    cd zenorocha.com
+		cd blog
 
 5. E finalmente rode:
 
-    jekyll
+		jekyll
 
 Agora você irá ver o site rodando em `localhost:4000` :D
+
 
 ## Estrutura
 
@@ -36,8 +37,6 @@ A estrutura básica do projeto se dá na seguinte forma:
 .
 |-- _includes
 |-- _layouts
-|-- _plugins
-|-- _posts
 |-- _site
 |-- assets
 |-- _config.yml
@@ -47,14 +46,6 @@ A estrutura básica do projeto se dá na seguinte forma:
 ### [_includes](https://github.com/zenorocha/blog/tree/master/_includes)
 
 São blocos de código utilizados para gerar a página principal do site ([index.html](https://github.com/zenorocha/blog/blob/master/index.html)).
-
-### [_plugins](https://github.com/zenorocha/blog/tree/master/_plugins)
-
-Contém os plugins utilizados.
-
-### [_posts](https://github.com/zenorocha/blog/tree/master/_posts)
-
-Contém a lista de posts.
 
 ### [_layouts](https://github.com/zenorocha/blog/tree/master/_layouts)
 
@@ -77,7 +68,3 @@ Armazena de forma fácil a maior parte das configurações da aplicação.
 É o arquivo que importa todas as seções da aplicação.
 
 *Mais informações sobre a estrutura de arquivos do Jekyll, [clique aqui](https://github.com/mojombo/jekyll/wiki/Usage).*
-
-## Créditos
-
-Inspirado por Andy Taylor.

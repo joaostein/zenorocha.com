@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="pt-BR">
+
+{% include head.html %}
+
+<body onload="prettyPrint()">
+
+  <div id="wrapper">
+    {{ content }}
+  </div>
+
+  {% include disqus-list.html %}
+  {% include google-analytics.html %}
+
+</body>
+</html>

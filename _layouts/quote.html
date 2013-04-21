@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="pt-BR">
+
+{% include head.html %}
+
+<body onload="prettyPrint()">
+
+  <div id="wrapper">
+
+    {% include header.html %}
+
+    <div id="content" class="content">
+
+      <div id="main" class="fl">
+
+        <div class="post quote">
+
+          <div class="posttype">
+            <img src="http://static.tumblr.com/j8lh0bq/j5Mkzgvl3/ico-quote.png" alt="Quote">
+          </div><!-- /.posttype -->
+
+          <div class="postcontent">
+            <div class="quote-wrap">"{{ page.title }}"</div>
+            <div class="description"><em>—&nbsp;<a href="{{ page.authorURL }}" target="_blank">{{ page.authorName }}</a></em></div>
+          </div><!-- /.postcontent -->
+
+          <a rel="author" style="display:none;" href="https://profiles.google.com/zno.rocha">Zeno Rocha</a>
+
+        </div>
+
+        {% include disqus-single.html %}
+
+      </div><!-- /#main -->
+
+      {% include sidebar.html %}
+
+    </div><!-- /#content -->
+
+    <div class="fix"></div>
+
+    {% include footer.html %}
+
+  </div><!-- /#wrapper -->
+
+  {% include google-analytics.html %}
+
+</body>
+</html>

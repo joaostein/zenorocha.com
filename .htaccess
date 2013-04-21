@@ -1,0 +1,243 @@
+# Redirecting old URLs
+
+redirect 301 /feed/index.xml http://zenorocha.com/feed/index.xml
+
+redirect 301 /stats-2011-2012.html http://zenorocha.com/stats-2011-2012/
+redirect 301 /my-way.html http://zenorocha.com/my-way/
+redirect 301 /mitos-desenvolvimento-front-end-qcon.html http://zenorocha.com/mitos-desenvolvimento-front-end-qcon/
+redirect 301 /entrevista-home-office.html http://zenorocha.com/entrevista-home-office/
+redirect 301 /23-extensoes-indispensaveis-para-desenvolvedores-web.html http://zenorocha.com/23-extensoes-indispensaveis-para-desenvolvedores-web/
+redirect 301 /dive-into-html5-traduzido.html http://zenorocha.com/dive-into-html5-traduzido/
+redirect 301 /javascript-callbacks-css-fallbacks.html http://zenorocha.com/javascript-callbacks-css-fallbacks/
+redirect 301 /recado-para-frontinterior.html http://zenorocha.com/recado-para-frontinterior/
+redirect 301 /conf-boilerplate.html http://zenorocha.com/conf-boilerplate/
+redirect 301 /zofe-3.html http://zenorocha.com/zofe-3/
+redirect 301 /bye-zen-coding-bem-vindo-emmet.html http://zenorocha.com/bye-zen-coding-bem-vindo-emmet/
+redirect 301 /zofe-2.html http://zenorocha.com/zofe-2/
+redirect 301 /entrevista-qconsp.html http://zenorocha.com/entrevista-qconsp/
+redirect 301 /super-trunfo.html http://zenorocha.com/super-trunfo/
+redirect 301 /zofe-1.html http://zenorocha.com/zofe-1/
+redirect 301 /tunando-developer-tools-google-chrome.html http://zenorocha.com/tunando-developer-tools-google-chrome/
+redirect 301 /blackberry-jam-session.html http://zenorocha.com/blackberry-jam-session/
+redirect 301 /zofe-0.html http://zenorocha.com/zofe-0/
+redirect 301 /grupos-no-facebook.html http://zenorocha.com/grupos-no-facebook/
+redirect 301 /dont-code-today-what-you-cant-debug-tomorrow.html http://zenorocha.com/dont-code-today-what-you-cant-debug-tomorrow/
+
+redirect 301 /page13 http://zenorocha.com/blog/page13/
+redirect 301 /page14 http://zenorocha.com/blog/page14/
+redirect 301 /page15 http://zenorocha.com/blog/page15/
+
+redirect 301 /post/30999409520/o-futuro-da-web-com-html5-revista-wide http://zenorocha.com/o-futuro-da-web-com-html5/
+redirect 301 /o-futuro-da-web-com-html5.html http://zenorocha.com/o-futuro-da-web-com-html5/
+
+redirect 301 /post/30870227532/braziljs http://zenorocha.com/braziljs-2012/
+redirect 301 /braziljs-2012.html http://zenorocha.com/braziljs-2012/
+
+redirect 301 /post/30099307477/braziljs-weekly http://zenorocha.com/braziljs-weekly/
+redirect 301 /braziljs-weekly.html http://zenorocha.com/braziljs-weekly/
+
+redirect 301 /post/29927205539/javascript-the-right-way http://zenorocha.com/javascript-the-right-way/
+redirect 301 /javascript-the-right-way.html http://zenorocha.com/javascript-the-right-way/
+
+redirect 301 /post/29872945048/a-vida-alem-do-jquery-tech-talk http://zenorocha.com/a-vida-alem-do-jquery/
+redirect 301 /a-vida-alem-do-jquery.html http://zenorocha.com/a-vida-alem-do-jquery/
+
+redirect 301 /post/28963290827/relato-13-fisl http://zenorocha.com/relato-13-fisl/
+redirect 301 /relato-13-fisl.html http://zenorocha.com/relato-13-fisl/
+
+redirect 301 /post/28940311936/relato-mozreps-speakers-training-qcon http://zenorocha.com/relato-mozreps-qcon/
+redirect 301 /relato-mozreps-qcon.html http://zenorocha.com/relato-mozreps-qcon/
+
+redirect 301 /post/28437122681/on-may-20th-i-made-a-presentation-introducing http://zenorocha.com/palestra-jsconfar/
+redirect 301 /palestra-jsconfar.html http://zenorocha.com/palestra-jsconfar/
+
+redirect 301 /post/28347332840/conheca-de-verdade-o-boot2gecko-ou-firefoxos http://zenorocha.com/conheca-o-boot2gecko-ou-firefoxos/
+redirect 301 /conheca-o-boot2gecko-ou-firefoxos.html http://zenorocha.com/conheca-o-boot2gecko-ou-firefoxos/
+
+redirect 301 /post/28106562920/dont-feed-the-trolls http://zenorocha.com/dont-feed-the-trolls/
+redirect 301 /dont-feed-the-trolls.html http://zenorocha.com/dont-feed-the-trolls/
+
+redirect 301 /post/28082270941/introducing-braziljs-foundation http://zenorocha.com/introducing-braziljs-foundation/
+redirect 301 /introducing-braziljs-foundation.html http://zenorocha.com/introducing-braziljs-foundation/
+
+redirect 301 /post/27569632629/como-fizemos-o-oldradio http://zenorocha.com/como-fizemos-o-oldradio/
+redirect 301 /como-fizemos-o-oldradio.html http://zenorocha.com/como-fizemos-o-oldradio/
+
+redirect 301 /post/27345280207/compass-sprite-generator http://zenorocha.com/compass-sprite-generator/
+redirect 301 /compass-sprite-generator.html http://zenorocha.com/compass-sprite-generator/
+
+redirect 301 /post/26995115768/front-end-made-in-brazil http://zenorocha.com/front-end-made-in-brazil/
+redirect 301 /front-end-made-in-brazil.html http://zenorocha.com/front-end-made-in-brazil/
+
+redirect 301 /post/26918306746/tudo-novo-de-novo http://zenorocha.com/tudo-novo-de-novo/
+redirect 301 /tudo-novo-de-novo.html http://zenorocha.com/tudo-novo-de-novo/
+
+redirect 301 /post/25094143614/principios-para-escrever-css-de-forma-consistente http://zenorocha.com/principios-para-escrever-css-de-forma-consistente/
+redirect 301 /principios-para-escrever-css-de-forma-consistente.html http://zenorocha.com/principios-para-escrever-css-de-forma-consistente/
+
+redirect 301 /post/24884206643/the-older-i-get-the-more-i-believe-that-the-only http://zenorocha.com/the-older-i-get/
+redirect 301 /the-older-i-get.html http://zenorocha.com/the-older-i-get/
+
+redirect 301 /post/24548289011/meu-ambiente-de-trabalho-em-7-itens http://zenorocha.com/meu-ambiente-de-trabalho-em-7-itens/
+redirect 301 /meu-ambiente-de-trabalho-em-7-itens.html http://zenorocha.com/meu-ambiente-de-trabalho-em-7-itens/
+
+redirect 301 /post/23716311770/jsconf-argentina-um-relato-da-minha-primeira-palestra http://zenorocha.com/relato-jsconfar/
+redirect 301 /relato-jsconfar.html http://zenorocha.com/relato-jsconfar/
+
+redirect 301 /post/23858685899/entrevista-conheca-o-jquery-boilerplate http://zenorocha.com/entrevista-conheca-o-jquery-boilerplate/
+redirect 301 /entrevista-conheca-o-jquery-boilerplate.html http://zenorocha.com/entrevista-conheca-o-jquery-boilerplate/
+
+redirect 301 /post/22343699667/tudo-que-voce-gostaria-de-saber-sobre-plugins-jquery-e http://zenorocha.com/tudo-que-voce-gostaria-de-saber-sobre-plugins/
+redirect 301 /tudo-que-voce-gostaria-de-saber-sobre-plugins.html http://zenorocha.com/tudo-que-voce-gostaria-de-saber-sobre-plugins/
+
+redirect 301 /post/22129403592/not-being-a-dick-over-being-a-rockstar http://zenorocha.com/not-being-a-dick-over-being-a-rockstar/
+redirect 301 /not-being-a-dick-over-being-a-rockstar.html http://zenorocha.com/not-being-a-dick-over-being-a-rockstar/
+
+redirect 301 /post/20067398797/automatizando-tarefas-js-com-grunt http://zenorocha.com/automatizando-tarefas-js-com-grunt/
+redirect 301 /automatizando-tarefas-js-com-grunt.html http://zenorocha.com/automatizando-tarefas-js-com-grunt/
+
+redirect 301 /post/18957314723/sublime-text-2-dicas-para-desenvolvimento-front-end http://zenorocha.com/sublime-text-2-dicas-para-desenvolvimento-front-end/
+redirect 301 /sublime-text-2-dicas-para-desenvolvimento-front-end.html http://zenorocha.com/sublime-text-2-dicas-para-desenvolvimento-front-end/
+
+redirect 301 /post/14865873215/entao-e-natal-e-ano-novo-tambem http://zenorocha.com/entao-e-natal-e-ano-novo-tambem/
+redirect 301 /entao-e-natal-e-ano-novo-tambem.html http://zenorocha.com/entao-e-natal-e-ano-novo-tambem/
+
+redirect 301 /post/14240857725/i-have-no-special-talents-i-am-only-passionately http://zenorocha.com/i-have-no-special-talents/
+redirect 301 /i-have-no-special-talents.html http://zenorocha.com/i-have-no-special-talents/
+
+redirect 301 /post/13917968036/especial-do-campeao-globoesporte-com http://zenorocha.com/especial-do-campeao-globoesportecom/
+redirect 301 /especial-do-campeao-globoesportecom.html http://zenorocha.com/especial-do-campeao-globoesportecom/
+
+redirect 301 /post/13162044644/hub-me-or-the-history-of-my-friend-clark-kent http://zenorocha.com/hub-me-or-the-history-of-my-friend-clark-kent/
+redirect 301 /hub-me-or-the-history-of-my-friend-clark-kent.html http://zenorocha.com/hub-me-or-the-history-of-my-friend-clark-kent/
+
+redirect 301 /post/12843103176/obtendo-mais-performance-com-smaller-e-imageoptim http://zenorocha.com/obtendo-mais-performance-com-smaller-e-imageoptim/
+redirect 301 /obtendo-mais-performance-com-smaller-e-imageoptim.html http://zenorocha.com/obtendo-mais-performance-com-smaller-e-imageoptim/
+
+redirect 301 /post/12596625255/ontem-foi-um-dia-pra-la-de-movimentado-logo-de http://zenorocha.com/flashplayer/
+redirect 301 /flashplayer.html http://zenorocha.com/flashplayer/
+
+redirect 301 /post/12470092560/como-usar-html5-sem-uma-maquina-do-tempo http://zenorocha.com/como-usar-html5-sem-uma-maquina-do-tempo/
+redirect 301 /como-usar-html5-sem-uma-maquina-do-tempo.html http://zenorocha.com/como-usar-html5-sem-uma-maquina-do-tempo/
+
+redirect 301 /post/11994625067/design-na-web-com-css3 http://zenorocha.com/design-na-web-com-css3/
+redirect 301 /design-na-web-com-css3.html http://zenorocha.com/design-na-web-com-css3/
+
+redirect 301 /post/11919944044/sorteio-de-credenciais-para-o-phpn-rio-o http://zenorocha.com/sorteio-de-credenciais-para-o-phpnrio/
+redirect 301 /sorteio-de-credenciais-para-o-phpnrio.html http://zenorocha.com/sorteio-de-credenciais-para-o-phpnrio/
+
+redirect 301 /post/11610322257/geniuses-are-1-inspiration-and-99-transpiration http://zenorocha.com/geniuses-are-1-inspiration-and-99-transpiration/
+redirect 301 /geniuses-are-1-inspiration-and-99-transpiration.html http://zenorocha.com/geniuses-are-1-inspiration-and-99-transpiration/
+
+redirect 301 /post/11610181684/era-uma-vez-uma-referencia-chamada-dive-into-html5 http://zenorocha.com/era-uma-vez-uma-referencia-chamada-dive-into-html5/
+redirect 301 /era-uma-vez-uma-referencia-chamada-dive-into-html5.html http://zenorocha.com/era-uma-vez-uma-referencia-chamada-dive-into-html5/
+
+redirect 301 /post/11433808545/salve-a-web-por-favor http://zenorocha.com/salve-a-web-por-favor/
+redirect 301 /salve-a-web-por-favor.html http://zenorocha.com/salve-a-web-por-favor/
+
+redirect 301 /post/9928625468/senhoras-e-senhores-apresento-lhes-wormz http://zenorocha.com/senhoras-e-senhores-apresento-lhes-wormz/
+redirect 301 /senhoras-e-senhores-apresento-lhes-wormz.html http://zenorocha.com/senhoras-e-senhores-apresento-lhes-wormz/
+
+redirect 301 /post/10361104170/html5-async-scripts http://zenorocha.com/html5-async-scripts/
+redirect 301 /html5-async-scripts.html http://zenorocha.com/html5-async-scripts/
+
+redirect 301 /post/9341076546/nem-tudo-que-parece-igual-e-realmente-igual http://zenorocha.com/nem-tudo-que-parece-igual-e-realmente-igual/
+redirect 301 /nem-tudo-que-parece-igual-e-realmente-igual.html http://zenorocha.com/nem-tudo-que-parece-igual-e-realmente-igual/
+
+redirect 301 /post/9258724477/gravado-por-fabio-akita-na-railsconf-2009 http://zenorocha.com/uncle-bob-tip/
+redirect 301 /uncle-bob-tip.html http://zenorocha.com/uncle-bob-tip/
+
+redirect 301 /post/9165492743/relato-geeks-on-beer-e-rio-agile http://zenorocha.com/relato-geeks-on-beer-e-rio-agile/
+redirect 301 /relato-geeks-on-beer-e-rio-agile.html http://zenorocha.com/relato-geeks-on-beer-e-rio-agile/
+
+redirect 301 /post/9062441819/javascript-doesnt-suck-youre-just-doing-it http://zenorocha.com/javascript-doesnt-suck/
+redirect 301 /javascript-doesnt-suck.html http://zenorocha.com/javascript-doesnt-suck/
+
+redirect 301 /post/8931299250/html5-canvas-three-js http://zenorocha.com/html5-canvas-three-js/
+redirect 301 /html5-canvas-three-js.html http://zenorocha.com/html5-canvas-three-js/
+
+redirect 301 /post/8702592952/do-websites-need-to-look-exactly-the-same-in-every http://zenorocha.com/do-websites-need-to-look-exactly-the-same-in-every-browser/
+redirect 301 /do-websites-need-to-look-exactly-the-same-in-every-browser.html http://zenorocha.com/do-websites-need-to-look-exactly-the-same-in-every-browser/
+
+redirect 301 /post/8325407542/entendendo-coffeescript http://zenorocha.com/entendendo-coffeescript/
+redirect 301 /entendendo-coffeescript.html http://zenorocha.com/entendendo-coffeescript/
+
+redirect 301 /post/7503734229/conversores-de-flash-em-html5-e-a-disputa-entre-google http://zenorocha.com/conversores-de-flash-em-html5/
+redirect 301 /conversores-de-flash-em-html5.html http://zenorocha.com/conversores-de-flash-em-html5/
+
+redirect 301 /post/6875451311/relato-front-in-rio-2011 http://zenorocha.com/relato-front-in-rio-2011/
+redirect 301 /relato-front-in-rio-2011.html http://zenorocha.com/relato-front-in-rio-2011/
+
+redirect 301 /post/6836823633/personal-contact-the-richest-experience-not http://zenorocha.com/personal-contact-the-richest-experience/
+redirect 301 /personal-contact-the-richest-experience.html http://zenorocha.com/personal-contact-the-richest-experience/
+
+redirect 301 /post/6567061435/odeia-o-ie6-eu-tambem-mas-esse-cara-uma-serie http://zenorocha.com/odeia-o-ie6-eu-tambem-mas-esse-cara/
+redirect 301 /odeia-o-ie6-eu-tambem-mas-esse-cara.html http://zenorocha.com/odeia-o-ie6-eu-tambem-mas-esse-cara/
+
+redirect 301 /post/6396817050/relato-iii-fsldchttp://zenorocha.com /relato-iii-fsldc/
+redirect 301 /relato-iii-fsldc.html http://zenorocha.com/relato-iii-fsldc/
+
+redirect 301 /post/6231603128/html5-referencias-literarias /http://zenorocha.comhtml5-referencias-literarias/
+redirect 301 /html5-referencias-literarias.html http://zenorocha.com/html5-referencias-literarias/
+
+redirect 301 /post/5980782573/licoes-aprendidas-com-o-mundo-python http://zenorocha.com/licoes-aprendidas-com-o-mundo-python/
+redirect 301 /licoes-aprendidas-com-o-mundo-python.html http://zenorocha.com/licoes-aprendidas-com-o-mundo-python/
+
+redirect 301 /post/5842502263/ive-seen-the-future-its-in-my-browser http://zenorocha.com/i-have-seen-the-future-its-in-my-browser/
+redirect 301 /i-have-seen-the-future-its-in-my-browser.html http://zenorocha.com/i-have-seen-the-future-its-in-my-browser/
+
+redirect 301 /post/5773561083/relato-13elw-edted-e-mais http://zenorocha.com/relato-13elw-edted-e-mais/
+redirect 301 /relato-13elw-edted-e-mais.html http://zenorocha.com/relato-13elw-edted-e-mais/
+
+redirect 301 /post/5683146693/o-que-o-angry-birds-tem-a-ver-com-o-flash http://zenorocha.com/o-que-o-angry-birds-tem-a-ver-com-o-flash/
+redirect 301 /o-que-o-angry-birds-tem-a-ver-com-o-flash.html http://zenorocha.com/o-que-o-angry-birds-tem-a-ver-com-o-flash/
+
+redirect 301 /post/5522606879/css-important-o-melhor-amigo-do-desenvolvedor http://zenorocha.com/css-important/
+redirect 301 /css-important.html http://zenorocha.com/css-important/
+
+redirect 301 /post/5397815725/medindo-o-tempo-de-carregamento-com-o-novo-google http://zenorocha.com/medindo-o-tempo-de-carregamento-com-o-novo-google-analytics/
+redirect 301 /medindo-o-tempo-de-carregamento-com-o-novo-google-analytics.html http://zenorocha.com/medindo-o-tempo-de-carregamento-com-o-novo-google-analytics/
+
+redirect 301 /post/5344849472/introducing-html11-the-future-today-via http://zenorocha.com/introducing-html11/
+redirect 301 /introducing-html11.html http://zenorocha.com/introducing-html11/
+
+redirect 301 /post/5286872626/social-media-apis-parte-ii http://zenorocha.com/social-media-apis-parte-ii/
+redirect 301 /social-media-apis-parte-ii.html http://zenorocha.com/social-media-apis-parte-ii/
+
+redirect 301 /post/5150004042/relato-v-open-space-rio/ http://zenorocha.com/relato-v-openspace-rio/
+redirect 301 /relato-v-openspace-rio.html http://zenorocha.com/relato-v-openspace-rio/
+
+redirect 301 /post/5045416243/humans-txt-because-we-are-people-not-machines http://zenorocha.com/humans-txt-because-we-are-people-not-machines/
+redirect 301 /humans-txt-because-we-are-people-not-machines.html http://zenorocha.com/humans-txt-because-we-are-people-not-machines/
+
+redirect 301 /post/4991785366/sharing-is-to-ownership-like-the-ipod-is-to-the http://zenorocha.com/sharing-is-to-ownership/
+redirect 301 /sharing-is-to-ownership.html http://zenorocha.com/sharing-is-to-ownership/
+
+redirect 301 /post/4931780221/html5-local-storage http://zenorocha.com/html5-local-storage/
+redirect 301 /html5-local-storage.html http://zenorocha.com/html5-local-storage/
+
+redirect 301 /post/4750649370/social-media-apis-parte-i http://zenorocha.com/social-media-apis-parte-i/
+redirect 301 /social-media-apis-parte-i.html http://zenorocha.com/social-media-apis-parte-i/
+
+redirect 301 /post/4594116227/xml-pra-que-conheca-o-json-e-o-yaml http://zenorocha.com/xml-pra-que-conheca-o-json-e-o-yaml/
+redirect 301 /xml-pra-que-conheca-o-json-e-o-yaml.html http://zenorocha.com/xml-pra-que-conheca-o-json-e-o-yaml/
+
+redirect 301 /post/4545719075/do-it-as-simple-as-you-can-just-what-is http://zenorocha.com/do-it-as-simple-as-you-can/
+redirect 301 /do-it-as-simple-as-you-can.html http://zenorocha.com/do-it-as-simple-as-you-can/
+
+redirect 301 /post/4545716588/hello-world http://zenorocha.com/hello-world/
+redirect 301 /hello-world.html http://zenorocha.com/hello-world/
+
+redirect 301 /page/2 http://zenorocha.com/blog/page2/
+redirect 301 /page/3 http://zenorocha.com/blog/page3/
+redirect 301 /page/4 http://zenorocha.com/blog/page4/
+redirect 301 /page/5 http://zenorocha.com/blog/page5/
+redirect 301 /page/6 http://zenorocha.com/blog/page6/
+redirect 301 /page/7 http://zenorocha.com/blog/page7/
+redirect 301 /page/8 http://zenorocha.com/blog/page8/
+redirect 301 /page/9 http://zenorocha.com/blog/page9/
+redirect 301 /page/10 http://zenorocha.com/blog/page10/
+redirect 301 /page/11 http://zenorocha.com/blog/page11/
+redirect 301 /page/12 http://zenorocha.com/blog/page12/
+
+redirect 301 / http://zenorocha.com/blog/

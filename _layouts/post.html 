@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="pt-BR">
+
+{% include head.html %}
+
+<body onload="prettyPrint()">
+
+  <div id="wrapper">
+
+    {% include header.html %}
+
+    <div id="content" class="content">
+
+      <div id="main" class="fl">
+
+        <div class="post text">
+
+          <div class="posttype">
+            <p>{{ page.date | date: "%d/%m" }}</p>
+          </div><!-- /.posttype -->
+
+          <div class="postcontent">
+
+            <h3 class="posttitle">
+              <a href="{{ page.url }}">{{ page.title }}</a>
+            </h3>
+
+            <div class="description regular_post_body">
+              {{ content }}
+            </div><!-- /.description -->
+
+          </div><!-- /.postcontent -->
+
+          <a rel="author" class="hide" href="https://profiles.google.com/zno.rocha">Zeno Rocha</a>
+
+        </div><!-- /#post -->
+
+        {% include disqus-single.html %}
+
+      </div><!-- /#main -->
+
+      {% include sidebar.html %}
+
+    </div><!-- /#content -->
+
+    <div class="fix"></div>
+
+    {% include footer.html %}
+
+  </div><!-- /#wrapper -->
+
+  {% include google-analytics.html %}
+
+</body>
+</html>

@@ -1,0 +1,130 @@
+.comments  { width: 100px; text-align: right; }
+    .site-title a { color: #cccccc !important; }
+    .posttype { background-color: #cccccc !important; border-color: #cccccc !important; }
+    .postcontent a, .widget-content a, #disqus_thread a, #notes a { color: #666666 !important; }
+      .postcontent a:hover, .widget a:hover, #disqus_thread a:hover, #notes a:hover #000000 !important; }
+
+    .search_query { font-weight: bold; }
+      .search_query:before { content:'“'; }
+      .search_query:after { content:'”'; }
+
+    .post .postbottom a {
+  text-transform: none;
+  }
+  #no-border {
+  background-color: white !important;
+  border: 0 !important;
+  }
+
+  .no-border {
+  background-color: white !important;
+  border: 0 !important;
+  }
+
+
+  img[align=left] {
+  margin: 0 10px 0 0;
+  }
+
+  img[align=right] {
+  margin: 0 0 0 10px;
+  }
+
+  .tags {
+  width: 50px;
+  }
+
+  .botao {
+  border: 0px !important;
+  background: #fff !important;
+  }
+
+
+
+  .centro {
+  text-align: center;
+  }
+
+  h4 {
+  padding-bottom: 15px;
+  }
+
+  .postcontent a {
+  font-weight: bold;
+  }
+
+  .postcontent a:hover {
+  text-decoration: underline;
+  }
+
+  .demo-download {
+  margin-left: 90px !important;
+  }
+
+  h4 {
+  font-weight: bold;
+  }
+
+  .posttitle {
+  line-height: 25px;
+  }
+
+  #copyright {
+  padding-top: 7px;
+  }
+
+  .widget-content a:hover {
+  color: #000 !important;
+  }
+
+  h2 {
+  font-weight: bold;
+  color: #666;
+  line-height: 26px;
+  }
+
+  p, ol li, ul li {
+  font: 14px/20px Arial, "Myriad Pro", Myriad, sans-serif !important;
+  }
+
+  pre {
+  font-family: 'Ubuntu', sans-serif;
+  }
+
+  .space {
+  margin-bottom: 30px;
+  }
+
+  .twitter-follow-button {
+  margin-top: 10px;
+  }
+
+  #followers {
+  font: 14px/20px "Myriad Pro", Myriad, Arial, sans-serif;
+  }
+
+  .margem { margin-top: 20px; }
+
+  #sidebar .gravatar { margin-top: 0px; !important}
+
+  .post blockquote p {
+  color: #555 !important; }
+
+  ol li {
+  font-family: Arial, 'Myriad Pro', Myriad, sans-serif;
+  margin-bottom: 15px; }
+
+/* Utilities */
+
+.hide {
+  display: none;
+}
+
+q {
+  border-left: 5px solid #ccc;
+  font-family: Arial, 'Myriad Pro', Myriad, sans-serif;
+  margin-bottom: 15px;
+  display: block;
+  font-style: italic;
+  padding-left: 10px;
+}

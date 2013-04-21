@@ -1,47 +1,26 @@
-<!doctype html>
-<html lang="en">
-<head>
+<div id="header" class="content">
 
-	<title>{% if page.title %}{{ page.title }} &mdash;{% endif %} {{ site.name }}</title>
+  <div id="logo" class="fl">
+    <h1 class="site-title">
+      <a href="/"><img src="http://media.zenorocha.com/zenorocha.png" alt="Home" /></a>
+    </h1>
+  </div><!-- /#logo -->
 
-	<!-- Meta -->
-	<meta charset="utf-8"/>
-	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-	<meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
+  <div id="top-right" class="fr">
 
-	<!-- Facebook -->
-	<meta property="og:title" content="{% if page.title %}{{ page.title }} &mdash;{% endif %} {{ site.name }}"/>
-	<meta property="og:site_name" content="Zeno Rocha"/>
-	<meta property="og:url" content="{{ site.url }}{% if page.url != '/index.html' %}{{ page.url }}{% endif %}"/>
-	<meta property="og:image" content="{{ site.url }}/assets/img/fb-share.jpg"/>
-	<meta property="og:type" content="{% if page.layout == 'post' %}article{% else %}blog{% endif %}"/>
-	<meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}"/>
+    <div id="icons" class="fl">
+      <a href="http://feeds.feedburner.com/zenorocha" title="RSS"><img src="/assets/img/ico-rss.png" alt="RSS" /></a>
+      <!-- <a href="/archive" title="Arquivos"><img src="/assets/img/ico-archives.png" alt="Arquivos" /></a>
+      <a href="/mobile" title="Mobile"><img src="/assets/img/ico-mobile.png" alt="Mobile" /></a> -->
+    </div><!-- /#icons -->
 
-	<link rel="shortcut icon" href="{{ site.baseurl }}assets/favicon.ico" type="image/x-icon" />
+    <!-- <div id="search" class="fl">
+      <form method="get" class="searchform" action="/search">
+          <input type="text" class="field s" name="q" value="Pesquisar..." onfocus="if (this.value == 'Pesquisar...') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Pesquisar...';}" />
+          <input type="image" class="submit" name="submit" value="Go" src="/assets/img/btn-search.png" />
+      </form>
+    </div> --><!-- /#search -->
 
-	<!-- Font -->
-	<link href='http://fonts.googleapis.com/css?family=Droid+Serif' rel='stylesheet' type='text/css'>
+  </div><!-- /#top-right -->
 
-	<!-- Feed -->
-	<link rel="alternate" type="application/rss+xml" href="{{ site.feedburnerurl }}">
-
-	<!-- CSS -->
-	<link rel="stylesheet" href="{{ site.baseurl }}assets/css/normalize.css" type="text/css" />
-	<link rel="stylesheet" href="{{ site.baseurl }}assets/css/main.css" type="text/css" />
-
-	<!-- jQuery -->
-	<script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js'></script>
-
-	<!-- Syntax Highlight -->
-	<link rel="stylesheet" type="text/css" href="http://media.zenorocha.com/pretiffy.css" />
-	<script src="http://media.zenorocha.com/pretiffy.js"></script>
-	<script src="http://media.zenorocha.com/pretiffy-lang-css.js"></script>
-
-	<!-- Main -->
-	<script src='{{ site.baseurl }}assets/js/main.js'></script>
-
-	<!-- Modernizr adding css classes -->
-	<script src='{{ site.baseurl }}assets/js/modernizr_css_classes.js'></script>
-
-</head>
-<body{% if page.class %} class="{{ page.class }}"{% endif %} onload="prettyPrint()">
+</div><!-- /#header -->
