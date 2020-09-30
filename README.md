@@ -8,7 +8,7 @@ Utilizo o [Jekyll](http://jekyllrb.com/), um static generator em Ruby, para cria
 
 ## Primeiros passos
 
-1. Instale o [Git](http://git-scm.com/downloads) e o [Ruby](http://www.ruby-lang.org/pt/downloads/), caso você não os tenha ainda.
+1. Install o [Git](http://git-scm.com/downloads) e o [Ruby](http://www.ruby-lang.org/pt/downloads/), caso você não os tenha ainda.
 
 2. Uma vez tendo instalado essas dependências, abra o terminal e instale o [Jekyll](http://jekyllrb.com/) através do comando:
 
